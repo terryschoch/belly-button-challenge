@@ -32,8 +32,7 @@ Complete the following steps:
     - Use otu_ids as the labels for the bar chart.
     - Use otu_labels as the hovertext for the chart.
 
-Horizontal Bar Graph
-(https://github.com/terryschoch/belly-button-challenge/blob/main/images/bar_chart_top_10_otu.png)
+![Horizontal Bar Graph](https://github.com/terryschoch/belly-button-challenge/blob/main/images/bar_chart_top_10_otu.png)
 
 3. Create a bubble chart that displays each sample.
     - Use otu_ids for the x values.
@@ -42,15 +41,13 @@ Horizontal Bar Graph
     - Use otu_ids for the marker colors.
     - Use otu_labels for the text values.
     
-Bubble Chart 
-(https://github.com/terryschoch/belly-button-challenge/blob/main/images/bubble_chart_bacteria_per_sample.png)
+![Bubble Chart](https://github.com/terryschoch/belly-button-challenge/blob/main/images/bubble_chart_bacteria_per_sample.png)
 
 4. Display the sample metadata, i.e., an individual's demographic information.  
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-Selected Test Subject's Demographic Info Panel 
-(https://github.com/terryschoch/belly-button-challenge/blob/main/images/demographic_info_panel.png)
+![Selected Test Subject's Demographic Info Panel](https://github.com/terryschoch/belly-button-challenge/blob/main/images/demographic_info_panel.png)
 
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
@@ -67,8 +64,7 @@ The following task is advanced and therefore optional.
 
 - Update the chart whenever a new sample is selected.
 
-Gauge Chart 
-(https://github.com/terryschoch/belly-button-challenge/blob/main/images/bubble_chart_bacteria_per_sample.png)
+![Gauge Chart](https://github.com/terryschoch/belly-button-challenge/blob/main/images/bubble_chart_bacteria_per_sample.png)
 
 ### Hints
  - Use console.log inside of your JavaScript code to see what your data looks like at each step.
