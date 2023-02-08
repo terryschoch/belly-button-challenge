@@ -32,6 +32,7 @@ Complete the following steps:
     - Use otu_ids as the labels for the bar chart.
     - Use otu_labels as the hovertext for the chart.
 
+- Horizontal Bar Graph
 ![Horizontal Bar Graph](https://github.com/terryschoch/belly-button-challenge/blob/main/images/bar_chart_top_10_otu.png)
 
 3. Create a bubble chart that displays each sample.
@@ -41,6 +42,7 @@ Complete the following steps:
     - Use otu_ids for the marker colors.
     - Use otu_labels for the text values.
     
+- Bubble Chart
 ![Bubble Chart](https://github.com/terryschoch/belly-button-challenge/blob/main/images/bubble_chart_bacteria_per_sample.png)
 
 4. Display the sample metadata, i.e., an individual's demographic information.  
@@ -64,7 +66,8 @@ The following task is advanced and therefore optional.
 
 - Update the chart whenever a new sample is selected.
 
-![Gauge Chart](https://github.com/terryschoch/belly-button-challenge/blob/main/images/bubble_chart_bacteria_per_sample.png)
+- Gauge Chart
+![Gauge Chart](https://github.com/terryschoch/belly-button-challenge/blob/main/images/gauge_chart_belly_button_washing_freq.png)
 
 ### Hints
  - Use console.log inside of your JavaScript code to see what your data looks like at each step.
