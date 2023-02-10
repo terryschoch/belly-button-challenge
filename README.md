@@ -57,7 +57,9 @@ Complete the following steps:
 
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
-[Belly Button Biodiversity Dashboard](https://tschoch-belly-button-challenge.netlify.app/)
+[GitHub Pages - Belly Button Biodiversity Dashboard](https://terryschoch.github.io/belly-button-challenge/)
+[Netlify - Belly Button Biodiversity Dashboard](https://tschoch-belly-button-challenge.netlify.app/)
+
 
 
 ## Advanced Challenge Assignment (Optional with no extra points earning)
@@ -79,4 +81,4 @@ The following task is advanced and therefore optional.
 - Refer to the Plotly.js documentation Links to an external site.when building the plots.
 
 
-*NOTE* The finalized Belly Button Biodiversity dashboard can be found at: https://tschoch-belly-button-challenge.netlify.app/
+*NOTE* The finalized Belly Button Biodiversity dashboard can be found at: https://terryschoch.github.io/belly-button-challenge/ or https://tschoch-belly-button-challenge.netlify.app/
